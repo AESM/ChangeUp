@@ -1,0 +1,13 @@
+/* style.css */
+
+/***= Application Style
+//============================================================================*/
+
+html {
+  font-family: sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
